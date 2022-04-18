@@ -1,6 +1,9 @@
 # Grading-on-marks
 
 ## Aim:
+To write a C# program to grade the marks
+
+
 
 ## Algorithm:
 Step1:
