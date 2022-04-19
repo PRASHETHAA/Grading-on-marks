@@ -25,6 +25,7 @@ Step6:
 stop
 
 ## Program:
+```c#
 using System;
 namespace Pras
 {
@@ -53,6 +54,7 @@ namespace Pras
         }
     }
 }
+```
 ## Output:
 ![GRADE](https://user-images.githubusercontent.com/75234942/163851777-cceee437-1546-4232-9283-bc284220b2e4.png)
 
